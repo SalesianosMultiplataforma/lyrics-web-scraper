@@ -11,7 +11,7 @@ Este proyecto es un scraper web para obtener letras de canciones.
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/lyrics-web-scraper.git
+    git clone https://github.com/SalesianosMultiplataforma/lyrics-web-scraper.git
     cd lyrics-web-scraper
     ```
 
