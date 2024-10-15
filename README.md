@@ -18,7 +18,7 @@ Este proyecto es un scraper web para obtener letras de canciones.
 2. Crea un entorno virtual (opcional pero recomendado):
     ```bash
     python -m venv venv
-    source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+    venv\Scripts\activate
     ```
 
 3. Instala las dependencias:
