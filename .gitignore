@@ -1,0 +1,37 @@
+# .gitignore
+
+# Ignorar el entorno virtual
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignorar la carpeta letras
+letras/
+
+# Ignorar archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de caché
+*.cache
+
+# Ignorar archivos de base de datos
+*.sqlite3
+
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar archivos de empaquetado
+*.egg
+*.egg-info/
+dist/
+build/
