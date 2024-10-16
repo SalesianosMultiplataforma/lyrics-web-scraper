@@ -6,7 +6,7 @@ import re
 # URL base de letras.com
 base_url = "https://www.letras.com"
 
-artist_url = "https://www.letras.com/melendi/"
+artist_url = "https://www.letras.com/recoveko/"
 
 # Extraer el nombre del artista de la URL
 artist_name = artist_url.rstrip('/').split('/')[-1]
